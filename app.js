@@ -86,7 +86,6 @@ btnUp.addEventListener('click',
 const container = new Vue(
     {
         el: '#main-container',
-        data: 
     
         carousel: [
 
